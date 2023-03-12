@@ -36,30 +36,30 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Desktop\Pnetphlix\Movie.h">
-      <Filter>Header Files</Filter>
+      <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\Desktop\Pnetphlix\MovieDatabase.h">
-      <Filter>Header Files</Filter>
+      <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\Desktop\Pnetphlix\Recommender.h">
-      <Filter>Header Files</Filter>
+      <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\Desktop\Pnetphlix\treemm.h">
-      <Filter>Header Files</Filter>
+      <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\Desktop\Pnetphlix\User.h">
-      <Filter>Header Files</Filter>
+      <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\Desktop\Pnetphlix\UserDatabase.h">
-      <Filter>Header Files</Filter>
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Desktop\Pnetphlix\movies.txt">
-      <Filter>Resource Files</Filter>
+      <Filter>Source Files</Filter>
     </Text>
     <Text Include="..\..\..\..\Desktop\Pnetphlix\users.txt">
-      <Filter>Resource Files</Filter>
+      <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
 </Project>
